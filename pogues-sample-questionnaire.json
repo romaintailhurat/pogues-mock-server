@@ -1,0 +1,72 @@
+{
+    "_id": "fr.insee-POPO-QPO-ROM_QUEST_1505_1625",
+    "_name": "ROM_QUEST_1505_1625",
+    "_label": "Joyeux questionnaire",
+    "_declarations": [],
+    "_controls": [],
+    "_goTos": [],
+    "_depth": 0,
+    "_genericName": "QUESTIONNAIRE",
+    "_children": [
+        {
+            "_id": "i9ppl7ud",
+            "_name": "Seq 1",
+            "_label": "La première séquence",
+            "_declarations": [],
+            "_controls": [],
+            "_goTos": [],
+            "_depth": 1,
+            "_genericName": "MODULE",
+            "_children": []
+        },
+        {
+            "_id": "i9ppckly",
+            "_name": "Quest 11",
+            "_label": "",
+            "_declarations": [],
+            "_controls": [],
+            "_goTos": [],
+            "_simple": true,
+            "_responses": []
+        },
+        {
+            "_id": "i9ppcmtc",
+            "_name": "Quest 12",
+            "_label": "",
+            "_declarations": [],
+            "_controls": [],
+            "_goTos": [],
+            "_simple": true,
+            "_responses": []
+        },
+        {
+            "_id": "i9ppoe5x",
+            "_name": "Seq 2",
+            "_label": "",
+            "_declarations": [],
+            "_controls": [],
+            "_goTos": [],
+            "_depth": 1,
+            "_genericName": "MODULE",
+            "_children": []
+        },
+        {
+            "_id": "ia9nx2ap",
+            "_name": "Seq 3",
+            "_label": "",
+            "_declarations": [],
+            "_controls": [],
+            "_goTos": [],
+            "_depth": 1,
+            "_genericName": "MODULE",
+            "_children": []
+        }
+    ],
+    "_agency": "fr.insee",
+    "_survey": {
+        "_id": "i9ppq2ww",
+        "_agency": "fr.insee",
+        "_name": "POPO"
+    },
+    "_componentGroups": []
+}
